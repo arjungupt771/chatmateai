@@ -1,0 +1,7 @@
+PyPDF2
+PyPDF
+google.generativeai
+fitz
+streamlit
+frontend
+tools
