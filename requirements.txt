@@ -1,7 +1,5 @@
-PyPDF2
-PyPDF
-google.generativeai
-fitz
+
 streamlit
-frontend
-tools
+google-genai
+pypdf
+python-dotenv
